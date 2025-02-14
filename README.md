@@ -1,6 +1,7 @@
 # Sales Analysis Dashboard - Power BI
 
-![Dashboard Preview](insert-your-dashboard-image-link-here)
+![output](https://github.com/user-attachments/assets/0050c2b4-b242-4460-b659-2f5ef827fcbc)
+
 
 ## 📖 About the Project
 This project is a **Power BI Sales Analysis Dashboard** designed to help businesses track their **Total Sales Orders, Total Revenue, Order Quantity, Total Cost, and Total Profit**. The dashboard provides insights into:  
